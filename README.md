@@ -2,7 +2,7 @@
 
 🎓 Business Intelligence Student @ CityU Hong Kong | 📊 Data Analytics Enthusiast | 🚀 Building ML Solutions
 
-Currently seeking **Data Science internships** at tech companies where I can apply machine learning and analytics to drive business outcomes.
+Currently seeking **Data Science internships** at tech companies where I can apply machine learning and data analytics to make data-driven decision.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/kevin-wong-3b0809261)
 [![Email](https://img.shields.io/badge/Email-kevin.wong.kw%40outlook.com-red)](mailto:kevin.wong.kw@outlook.com)
