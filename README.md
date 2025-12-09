@@ -16,7 +16,6 @@ Currently seeking **Data Science internships** at tech companies where I can app
 **Machine Learning:** Scikit-learn | TensorFlow | XGBoost | Regression | Classification | Clustering  
 **Databases:** MySQL | PostgreSQL  
 **Tools & Platforms:** Jupyter Notebook | Git | GitHub | VS Code | Shopify Analytics  
-**Business Intelligence:** Data modeling | KPI analysis | A/B testing | Customer segmentation
 
 ## 📫 Let's Connect
 
