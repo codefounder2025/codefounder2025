@@ -11,9 +11,8 @@ Currently seeking **Data Science internships** at tech companies where I can app
 
 ## 🛠️ Technical Skills
 
-**Languages:** Python | SQL | R  
+**Languages:** Python | SQL |  
 **Data Analysis & Visualization:** Pandas | NumPy | Matplotlib | Seaborn | Tableau | Power BI  
-**Machine Learning:** Scikit-learn | TensorFlow | XGBoost | Regression | Classification | Clustering  
 **Databases:** MySQL | PostgreSQL  
 **Tools & Platforms:** Jupyter Notebook | Git | GitHub | VS Code | Shopify Analytics  
 
