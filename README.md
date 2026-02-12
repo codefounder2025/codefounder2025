@@ -9,7 +9,7 @@ Currently seeking **Data Science internships** at tech companies where I can app
 
 🎯 **Career Goal:** Transition into data science roles at top tech companies, leveraging analytics to drive product decisions and business growth.
 
-## 🛠️ Technical Skills
+## 🛠️ Technical Skills(pending to learn about)
 
 **Languages:** Python | SQL |  
 **Data Analysis & Visualization:** Pandas | NumPy | Matplotlib | Seaborn | Tableau | Power BI  
