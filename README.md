@@ -18,7 +18,7 @@ Currently seeking **Data Science internships** at tech companies where I can app
 
 ## 📫 Let's Connect
 
-- 💼 LinkedIn: [linkedin.com/in/kevin-wong-3b0809261](https://linkedin.com/in/kevin-wong-3b0809261)
+- 💼 LinkedIn: [linkedin.com/in/kevin-wong-3b0809261](https://www.linkedin.com/in/kevinwongkw/)
 - 📧 Email: kevin.wong.kw@outlook.com
 - 🌐 Portfolio: [kevinwong.portfolio.github.io](https://codefounder2025.github.io/kevinwong.portfolio.github.io/)
 
