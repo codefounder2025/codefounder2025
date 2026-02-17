@@ -1,15 +1,13 @@
-# 👋 Hi, I'm Kevin Wong | Aspiring Data Scientist
+# 👋 Hi, I'm Kevin WONG | Aspiring Entreperneur
 
-🎓 Business Intelligence Student @ CityU Hong Kong | 📊 Data Analytics Enthusiast | 🚀 Building ML Solutions
+🎓 Business Intelligence Student @ City Univeristy of Hong Kong | 📊 Data Analytics Enthusiast | 🚀 Building ML Solutions
 
-Currently seeking **Data Science internships** at tech companies where I can apply machine learning and data analytics to make data-driven decision.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/kevin-wong-3b0809261)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://linkedin.com/in/kevin-wong-3b0809261](https://www.linkedin.com/in/kevinwongkw/))
 [![Email](https://img.shields.io/badge/Email-kevin.wong.kw%40outlook.com-red)](mailto:kevin.wong.kw@outlook.com)
 
-🎯 **Career Goal:** Transition into data science roles at top tech companies, leveraging analytics to drive product decisions and business growth.
+🎯 **Goal:** To become a entreperneur.
 
-## 🛠️ Technical Skills(pending to learn about)
+## 🛠️ Technical Skills(struggle to learn about)
 
 **Languages:** Python | SQL |  
 **Data Analysis & Visualization:** Pandas | NumPy | Matplotlib | Seaborn | Tableau | Power BI  
