@@ -16,9 +16,5 @@ Currently seeking **Data Science internships** at tech companies where I can app
 **Databases:** MySQL | PostgreSQL  
 **Tools & Platforms:** Jupyter Notebook | Git | GitHub | VS Code | Shopify Analytics  
 
-## 📫 Let's Connect
-
-- 💼 LinkedIn: [linkedin.com/in/kevin-wong-3b0809261](https://www.linkedin.com/in/kevinwongkw/)
-- 📧 Email: kevin.wong.kw@outlook.com
-- 🌐 Portfolio: [kevinwong.portfolio.github.io](https://codefounder2025.github.io/kevinwong.portfolio.github.io/)
+🌐 Portfolio: [kevinwong.portfolio.github.io](https://codefounder2025.github.io/kevinwong.portfolio.github.io/)
 
