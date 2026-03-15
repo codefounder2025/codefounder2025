@@ -4,7 +4,7 @@
 📊 Data & Analytics enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/kevinwongkw/)
-[![Email](https://img.shields.io/badge/Email-kevin.wong.kw%40outlook.com-red)](mailto:kevin.wong.kw@outlook.com)
+[![Email](https://img.shields.io/badge/Email-kevin.wong.kw%40outlook.com-red)](mailto:kevin.wong.kw@proton.me)
 
 🎯 **Current focus:** Building real-world data projects and sharpening my analytics skills.
 
